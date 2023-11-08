@@ -1,0 +1,7 @@
+tqdm
+tensorflow
+numpy
+Pillow
+pyperclip
+pygame
+mlib-nsi
